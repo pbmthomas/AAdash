@@ -7,6 +7,9 @@ library(ggplot2)
 library(DT)
 library(shinyWidgets)
 
+#Configure the port for the server to run on
+options(shiny.port = 8888)
+
 ui <- fluidPage(
     titlePanel("Attend Anywhere Provider Dashboard (beta)"),
     sidebarLayout(
