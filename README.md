@@ -54,7 +54,7 @@ You can open a new screen session by running the command:
 screen -S aadash
 ```
 
-This will automatically enter a new terminal session, where you can start the server using `Rescript app.R`. To disconnect, you can press "Control-A", then "Control-D". To reconnect (e.g. to stop or restart the server), you type `screen -R aadash`.
+This will automatically enter a new terminal session, where you can start the server using `Rscript app.R`. To disconnect, you can press "Control-A", then "Control-D". To reconnect (e.g. to stop or restart the server), you type `screen -R aadash`.
 
 #### Securing the server
 
