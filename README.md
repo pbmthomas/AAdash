@@ -8,11 +8,17 @@ App.R provides an R/Shiny app that can be run locally within R ([Rstudio](https:
 
 Input CSV file is the raw downloaded "Consultations" CSV from the reporting section of Attend Anywhere. 
 
-A demonstration of the latest build will shortly be available at [aadash.org](https://aadash.org).
+A demonstration of the latest build is available at [aadash.org](https://aadash.org).
 
 ## Getting started
 
-The software will soon be available at [aadash.org](https://aadash.org). It can also be self-hosted. Pointers for installation on Debian-based linux systems are shown below, but additional linux experience is likely to be required.
+The software is be available at [aadash.org](https://aadash.org).
+
+Alternatively, you can download app.R from this page, and run it within R ([Rstudio](https://rstudio.com/)) on your computer.
+
+## Setting up your own server
+
+If you want to host AADash so it can be used by other individuals within your organisation without them needing to install RStudio, or use the hosted version at [aadash.org](https://aadash.org), the software can also be self-hosted. Pointers for installation on Debian-based linux systems are shown below, but additional linux experience is likely to be required.
 
 ### Self-hosting
 
